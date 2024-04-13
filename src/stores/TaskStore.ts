@@ -2,7 +2,7 @@ import { defineStore } from "pinia";
 
 interface Task {
   id: number;
-  name: string;
+  title: string;
   isFav: boolean;
 }
 

@@ -26,7 +26,7 @@
 
 <script setup lang="ts">
 import { useTaskStore } from "@/stores/TaskStore";
-import { defineProps, ref, Ref } from "vue";
+import { defineProps, ref, type Ref } from "vue";
 
 interface Task {
   id: number;

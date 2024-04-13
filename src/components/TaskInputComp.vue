@@ -13,12 +13,6 @@
 import { useTaskStore } from "@/stores/TaskStore";
 import { ref } from "vue";
 
-interface Task {
-  id: number;
-  title: string;
-  isFav: boolean;
-}
-
 const taskStore = useTaskStore();
 const newTask = ref<string>("");
 
@@ -36,5 +30,3 @@ const handleSubmit = (): void => {
   }
 };
 </script>
-
-<style lang="scss" scoped></style>
