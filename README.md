@@ -1,6 +1,6 @@
 # Learnly Candidate Test (Task Management App)
 
-This task management app is a 3-day screening project developed for Learnly. It is built using Vue 3, TypeScript Pinia, Bootstrap, and SCSS. The app provides a comprehensive solution for managing tasks efficiently. This website can be accessed at [learnly vercel](https://casmir.dev).
+This task management app is a 3-day screening project developed for Learnly. It is built using Vue 3, TypeScript Pinia, Bootstrap, and SCSS. The app provides a comprehensive solution for managing tasks efficiently. This website can be accessed at [learnly app task](https://learnly-cuuke1e0y-casmir-onyekas-projects.vercel.app/).
 
 ![Task Manager](/learnly.png)
 
